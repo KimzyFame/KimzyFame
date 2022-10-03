@@ -27,4 +27,4 @@
 [<img width="1440" alt="Screenshot 2022-05-25 at 12 16 35" src="https://user-images.githubusercontent.com/85825213/170251113-4b8ab3d1-a606-4d0d-8181-1023856a9ded.png">](https://www.figma.com/file/JwQONxy0VheTv3zwuxOjdg/FAMEHALL-MARET?node-id=39%3A614)
 
 - [ ] CEARN(A Web3 blogging website).  
-[<img width="1440" alt="Screenshot 2022-05-25 at 12 18 39" src="https://user-images.githubusercontent.com/85825213/170251096-4e30b5a1-d4d7-4392-b535-c0173c8460d5.png">](https://www.figma.com/file/6gCV7byGe1hLRtuoEgRnIf/Nervos-L2-PROJECT?node-id=0%3A1)
+[![Screenshot (61)](https://user-images.githubusercontent.com/85825213/193699685-14e4958c-3f95-4176-9e61-644bf0604643.png)](https://www.figma.com/file/6gCV7byGe1hLRtuoEgRnIf/Nervos-L2-PROJECT?node-id=0%3A1)
