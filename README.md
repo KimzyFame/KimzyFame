@@ -11,6 +11,8 @@
 #### Some of the Projects i designed :construction_worker: :construction_worker:
 
 - [x] HIBET(Web3 betting dapp).  [check Prototype](https://www.figma.com/proto/pYxYn2KDStOlwZrpJeVpkB/HiBet?page-id=0%3A1&node-id=20%3A41&viewport=460%2C200%2C0.25&scaling=contain&starting-point-node-id=2%3A2)
+
+[HIBET Web3 betting mobile App file](https://www.figma.com/file/hMfD8ksMIeQ73Z0tMuZG09/Hibet-MOB)
 [![Screenshot (53)](https://user-images.githubusercontent.com/85825213/193252589-4d88ea83-51b2-45f3-8af0-0c8649c6f074.png)](https://www.figma.com/file/pYxYn2KDStOlwZrpJeVpkB/HiBet?node-id=77%3A105)
 
 - [x] An Mobile NFT Marketplace. [Check Prototype](https://www.figma.com/proto/HjXWle0FE3hxEhGqCrQtcN/NFT-Marketplace---Casper-Network?page-id=31%3A4&node-id=308%3A992&viewport=-875%2C-2093%2C0.5&scaling=scale-down&starting-point-node-id=172%3A48)
