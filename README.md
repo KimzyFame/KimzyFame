@@ -19,6 +19,9 @@
 - [x] Proof-of-Africa STAKEPOOL.
 [![File Covery767777](https://user-images.githubusercontent.com/85825213/200708860-bb11c83f-2f97-408b-adb5-dac027876c99.png)](https://www.figma.com/file/RNILBujexcJds0XE6OGw7Z/Proof-of-Africa)
 
+- [x] A redesign of Twitter desktop App to Whatsapp destop App.
+[![whatsapp dex light](https://user-images.githubusercontent.com/85825213/200710203-a10b0646-bbc5-404b-b421-f650766ce5b3.png)](https://www.figma.com/file/tMWHw2DeNmzoG13hDJNW0l/Whatsapp%2FTwitter)
+
 - [x] Gotterdamerung NFT Marketplace (Filecoin Network ).  [check Prototype](https://www.figma.com/proto/fMwZMXn6UkNjZhv7GHJ1rz?page-id=0%3A1&node-id=0%3A1&scaling=scale-down&starting-point-node-id=1%3A2&show-proto-sidebar=1)
 [![Screenshot (56)](https://user-images.githubusercontent.com/85825213/193697979-7a1f5fd4-f1a3-4e61-a3e3-dca61015a84e.png)](https://www.figma.com/file/fMwZMXn6UkNjZhv7GHJ1rz/MARKETPLACE?node-id=0%3A1)
 
