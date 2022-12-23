@@ -19,7 +19,7 @@
 [<img width="1440" alt="Screenshot 2022-05-25 at 12 17 50" src="https://user-images.githubusercontent.com/85825213/170251003-446bcc58-35d4-4849-8a33-f6decefa9c9b.png">](https://www.figma.com/file/HjXWle0FE3hxEhGqCrQtcN/NFT-Marketplace---Casper-Network?node-id=31%3A4)
 
 - [x] A Mobile APP PolySafe. [Check Prototype]
-[![polysafe ddd](https://user-images.githubusercontent.com/85825213/209367082-cd0347c6-69d5-4f55-ba38-6db00a6e110b.png](https://www.figma.com/file/E48fUt0RVDFbOCkckkOavV/eWALLET?node-id=0%3A1&t=s07u9yZiQRfoq6OR-1)
+[![polysafe ddd](https://user-images.githubusercontent.com/85825213/209367082-cd0347c6-69d5-4f55-ba38-6db00a6e110b.png)](https://www.figma.com/file/E48fUt0RVDFbOCkckkOavV/eWALLET?node-id=0%3A1&t=s07u9yZiQRfoq6OR-1)
 
 - [x] Proof-of-Africa STAKEPOOL.
 [![File Covery767777](https://user-images.githubusercontent.com/85825213/200708860-bb11c83f-2f97-408b-adb5-dac027876c99.png)](https://www.figma.com/file/RNILBujexcJds0XE6OGw7Z/Proof-of-Africa)
