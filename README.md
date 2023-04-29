@@ -6,7 +6,7 @@
 - 🔭 I’m currently a UI/UX / graphic designer.
 - 🌱 I’m currently learning 3D graphics
 - 🛠 If you need my help for your Designs. 
-- 📩You can contact me @ Iamfameclement@gmail.com
+- 📩You can contact me @ okikiadekunle89@gmail.com
 
 #### Some of the Projects i designed :construction_worker: :construction_worker:
 
