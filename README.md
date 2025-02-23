@@ -7,10 +7,15 @@ user-friendly interfaces for web and mobile applications. I specialize in user r
 prototyping, and interaction design, ensuring seamless digital experiences.
 
 🔹 What I Do
+
 ✅ User-Centered Design (Wireframing & Prototyping)
+
 ✅ User Research & Usability Testing
+
 ✅ High-Fidelity UI Design (Figma, Adobe Creative Suite)
+
 ✅ Web3 & Blockchain UI (if applicable)
+
 ✅ Collaboration with Developers for Implementation
 
 #### Some of the Projects i designed :construction_worker: :construction_worker:
