@@ -2,7 +2,10 @@
 I am Adekunle Okikioluwa Ademola
 
 - 🔭 UI/UX / graphic designer.
-Welcome to my GitHub portfolio! I'm a UI/UX Designer with 5+ years of experience in crafting intuitive, user-friendly interfaces for web and mobile applications. I specialize in user research, wireframing, prototyping, and interaction design, ensuring seamless digital experiences.
+Welcome to my GitHub portfolio! I'm a UI/UX Designer with 5+ years of experience in crafting intuitive,
+user-friendly interfaces for web and mobile applications. I specialize in user research, wireframing,
+prototyping, and interaction design, ensuring seamless digital experiences.
+
 🔹 What I Do
 ✅ User-Centered Design (Wireframing & Prototyping)
 ✅ User Research & Usability Testing
