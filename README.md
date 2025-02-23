@@ -1,12 +1,14 @@
 ### Hi there 👋
+I am Adekunle Okikioluwa Ademola
 
-
-**You are Lucky you made it to my GitHub profile. I am KIMZY FAME; the great Designer :art:**
-
-- 🔭 I’m currently a UI/UX / graphic designer.
-- 🌱 I’m currently learning 3D graphics
-- 🛠 If you need my help for your Designs. 
-- 📩You can contact me @ okikiadekunle89@gmail.com
+- 🔭 UI/UX / graphic designer.
+Welcome to my GitHub portfolio! I'm a UI/UX Designer with 5+ years of experience in crafting intuitive, user-friendly interfaces for web and mobile applications. I specialize in user research, wireframing, prototyping, and interaction design, ensuring seamless digital experiences.
+🔹 What I Do
+✅ User-Centered Design (Wireframing & Prototyping)
+✅ User Research & Usability Testing
+✅ High-Fidelity UI Design (Figma, Adobe Creative Suite)
+✅ Web3 & Blockchain UI (if applicable)
+✅ Collaboration with Developers for Implementation
 
 #### Some of the Projects i designed :construction_worker: :construction_worker:
 
